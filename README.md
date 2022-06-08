@@ -1,4 +1,4 @@
-# Ecom_Shoe Screens
+# Ecom Food Screens
 
 A new Flutter project having screens of a E-com based on Shoe Product.
 
@@ -12,13 +12,16 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 ## Screens Are Below
+<img src="https://raw.github.com/CrickSoldier/ecom_food/master/screens/1.jpg" width="256"/>
+<br>
+<img src="https://raw.github.com/CrickSoldier/ecom_food/master/screens/1.jpg" width="256"/>
+<br>
+<img src="https://raw.github.com/CrickSoldier/ecom_food/master/screens/1.jpg" width="256"/>
 
-![ScreenShot](https://raw.github.com/CrickSoldier/ecom_food/master/screens/1.jpg)
-![ScreenShot](https://raw.github.com/CrickSoldier/ecom_food/master/screens/2.jpg)
-![ScreenShot](https://raw.github.com/CrickSoldier/ecom_food/master/screens/3.jpg)
+
 
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Shoe_Ecom_UI
+# ecom_food
